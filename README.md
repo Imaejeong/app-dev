@@ -18,5 +18,6 @@ It is an action thirller that focused around the life of John Wick, a hitman and
 
 ### Insights
 
-> - **John Wick** became a cultural phenomenon after the release of the *first film in 2014*. With its intricate characters, interconnected plotlines, and action sequences, the John Wick franchise has become one of the most popular action movie series of all time :heart
+> - **John Wick** became a cultural phenomenon after the release of the *first film in 2014*. With its intricate characters, interconnected plotlines, and action sequences, the John Wick franchise has become one of the most popular action movie series of all time.
+
 > - It depicts the strong will of the protagonist and his *never-ending* search for justice in a world of violence and retribution with nonstop action, stylish gunplay, and a fascinating atmosphere.
